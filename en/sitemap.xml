@@ -2,15 +2,6 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://ahken92.github.io/AhKen/theme-documentation-basics/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://ahken92.github.io/AhKen/zh-cn/theme-documentation-basics/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://ahken92.github.io/AhKen/theme-documentation-basics/"
-                    /></url><url>
             <loc>https://ahken92.github.io/AhKen/theme-documentation-content/</loc><lastmod>2020-03-05T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -110,6 +101,15 @@
                     hreflang="en"
                     href="https://ahken92.github.io/AhKen/theme-documentation-typeit-shortcode/"
                     /></url><url>
+            <loc>https://ahken92.github.io/AhKen/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://ahken92.github.io/AhKen/zh-cn/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://ahken92.github.io/AhKen/"
+                    /></url><url>
             <loc>https://ahken92.github.io/AhKen/categories/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -146,15 +146,6 @@
                     hreflang="en"
                     href="https://ahken92.github.io/AhKen/tags/installation/"
                     /></url><url>
-            <loc>https://ahken92.github.io/AhKen/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="https://ahken92.github.io/AhKen/zh-cn/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://ahken92.github.io/AhKen/"
-                    /></url><url>
             <loc>https://ahken92.github.io/AhKen/posts/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
@@ -172,6 +163,33 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://ahken92.github.io/AhKen/tags/"
+                    /></url><url>
+            <loc>https://ahken92.github.io/AhKen/theme-documentation-basics-2/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://ahken92.github.io/AhKen/zh-cn/theme-documentation-basics-2/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://ahken92.github.io/AhKen/theme-documentation-basics-2/"
+                    /></url><url>
+            <loc>https://ahken92.github.io/AhKen/theme-documentation-basics-3/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://ahken92.github.io/AhKen/zh-cn/theme-documentation-basics-3/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://ahken92.github.io/AhKen/theme-documentation-basics-3/"
+                    /></url><url>
+            <loc>https://ahken92.github.io/AhKen/theme-documentation-basics/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="https://ahken92.github.io/AhKen/zh-cn/theme-documentation-basics/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://ahken92.github.io/AhKen/theme-documentation-basics/"
                     /></url><url>
             <loc>https://ahken92.github.io/AhKen/tags/content/</loc><lastmod>2020-03-05T15:58:26&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"

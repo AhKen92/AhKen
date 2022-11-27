@@ -1,62 +1,47 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Tags - Tag - LoveIt</title>
+        <title>Tags - Tag - AhKen的频道</title>
         <link>https://ahken92.github.io/AhKen/tags/</link>
-        <description>Tags - Tag - LoveIt</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</lastBuildDate><atom:link href="https://ahken92.github.io/AhKen/tags/" rel="self" type="application/rss+xml" /><item>
-    <title>configuration</title>
-    <link>https://ahken92.github.io/AhKen/tags/configuration/</link>
-    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
-    <author>xxxx</author>
-    <guid>https://ahken92.github.io/AhKen/tags/configuration/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>installation</title>
-    <link>https://ahken92.github.io/AhKen/tags/installation/</link>
-    <pubDate>Fri, 06 Mar 2020 21:29:01 &#43;0800</pubDate>
-    <author>xxxx</author>
-    <guid>https://ahken92.github.io/AhKen/tags/installation/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>content</title>
-    <link>https://ahken92.github.io/AhKen/tags/content/</link>
-    <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
-    <author>xxxx</author>
-    <guid>https://ahken92.github.io/AhKen/tags/content/</guid>
+        <description>Tags - Tag - AhKen的频道</description>
+        <generator>Hugo -- gohugo.io</generator><managingEditor>cksinuyasha@gmail.com (Ah Ken)</managingEditor>
+            <webMaster>cksinuyasha@gmail.com (Ah Ken)</webMaster><copyright>Ah Ken&#39;s Channel</copyright><lastBuildDate>Fri, 25 Nov 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://ahken92.github.io/AhKen/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Learning</title>
+    <link>https://ahken92.github.io/AhKen/tags/learning/</link>
+    <pubDate>Fri, 25 Nov 2022 21:57:40 &#43;0800</pubDate>
+    <author>Ah Ken</author>
+    <guid>https://ahken92.github.io/AhKen/tags/learning/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
     <title>Markdown</title>
     <link>https://ahken92.github.io/AhKen/tags/markdown/</link>
-    <pubDate>Thu, 05 Mar 2020 15:58:26 &#43;0800</pubDate>
-    <author>xxxx</author>
+    <pubDate>Fri, 25 Nov 2022 21:57:40 &#43;0800</pubDate>
+    <author>Ah Ken</author>
     <guid>https://ahken92.github.io/AhKen/tags/markdown/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>shortcodes</title>
-    <link>https://ahken92.github.io/AhKen/tags/shortcodes/</link>
-    <pubDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</pubDate>
-    <author>xxxx</author>
-    <guid>https://ahken92.github.io/AhKen/tags/shortcodes/</guid>
+    <title>内容</title>
+    <link>https://ahken92.github.io/AhKen/tags/content/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Ah Ken</author>
+    <guid>https://ahken92.github.io/AhKen/tags/content/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>HTML</title>
-    <link>https://ahken92.github.io/AhKen/tags/html/</link>
-    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
-    <author>xxxx</author>
-    <guid>https://ahken92.github.io/AhKen/tags/html/</guid>
+    <title>安装</title>
+    <link>https://ahken92.github.io/AhKen/tags/installation/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Ah Ken</author>
+    <guid>https://ahken92.github.io/AhKen/tags/installation/</guid>
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>emoji</title>
-    <link>https://ahken92.github.io/AhKen/tags/emoji/</link>
-    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
-    <author>xxxx</author>
-    <guid>https://ahken92.github.io/AhKen/tags/emoji/</guid>
+    <title>配置</title>
+    <link>https://ahken92.github.io/AhKen/tags/configuration/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Ah Ken</author>
+    <guid>https://ahken92.github.io/AhKen/tags/configuration/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

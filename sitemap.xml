@@ -1,18 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://ahken92.github.io/AhKen/en/sitemap.xml</loc>
-    
-      <lastmod>2020-06-12T10:10:13+03:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://ahken92.github.io/AhKen/zh-cn/sitemap.xml</loc>
-    
-      <lastmod>2020-06-12T10:10:13+03:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>https://ahken92.github.io/AhKen/about/</loc><lastmod>2022-11-26T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://ahken92.github.io/AhKen/</loc><lastmod>2022-11-25T21:57:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://ahken92.github.io/AhKen/categories/</loc><lastmod>2022-11-25T21:57:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://ahken92.github.io/AhKen/tags/learning/</loc><lastmod>2022-11-25T21:57:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://ahken92.github.io/AhKen/tags/markdown/</loc><lastmod>2022-11-25T21:57:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://ahken92.github.io/AhKen/categories/markdown/</loc><lastmod>2022-11-25T21:57:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://ahken92.github.io/AhKen/posts/</loc><lastmod>2022-11-25T21:57:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://ahken92.github.io/AhKen/tags/</loc><lastmod>2022-11-25T21:57:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://ahken92.github.io/AhKen/easy-accounting-001/</loc><lastmod>2022-11-25T21:57:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://ahken92.github.io/AhKen/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ahken92.github.io/AhKen/tags/content/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ahken92.github.io/AhKen/tags/installation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ahken92.github.io/AhKen/tags/configuration/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

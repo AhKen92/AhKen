@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Learning - Tag - AhKen的频道</title>
+        <link>https://ahken92.github.io/AhKen/tags/learning/</link>
+        <description>Learning - Tag - AhKen的频道</description>
+        <generator>Hugo -- gohugo.io</generator><managingEditor>cksinuyasha@gmail.com (Ah Ken)</managingEditor>
+            <webMaster>cksinuyasha@gmail.com (Ah Ken)</webMaster><copyright>Ah Ken&#39;s Channel</copyright><lastBuildDate>Fri, 25 Nov 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://ahken92.github.io/AhKen/tags/learning/" rel="self" type="application/rss+xml" /><item>
+    <title>简单会计学 001：前言</title>
+    <link>https://ahken92.github.io/AhKen/easy-accounting-001/</link>
+    <pubDate>Fri, 25 Nov 2022 21:57:40 &#43;0800</pubDate>
+    <author>Ah Ken</author>
+    <guid>https://ahken92.github.io/AhKen/easy-accounting-001/</guid>
+    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
+</item>
+</channel>
+</rss>

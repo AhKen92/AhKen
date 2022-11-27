@@ -2,6 +2,24 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://ahken92.github.io/AhKen/zh-cn/theme-documentation-basics-2/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://ahken92.github.io/AhKen/theme-documentation-basics-2/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://ahken92.github.io/AhKen/zh-cn/theme-documentation-basics-2/"
+                    /></url><url>
+            <loc>https://ahken92.github.io/AhKen/zh-cn/theme-documentation-basics-3/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://ahken92.github.io/AhKen/theme-documentation-basics-3/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://ahken92.github.io/AhKen/zh-cn/theme-documentation-basics-3/"
+                    /></url><url>
             <loc>https://ahken92.github.io/AhKen/zh-cn/theme-documentation-basics/</loc><lastmod>2020-03-06T21:40:32&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -110,15 +128,6 @@
                     hreflang="zh-cn"
                     href="https://ahken92.github.io/AhKen/zh-cn/theme-documentation-typeit-shortcode/"
                     /></url><url>
-            <loc>https://ahken92.github.io/AhKen/zh-cn/categories/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://ahken92.github.io/AhKen/categories/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://ahken92.github.io/AhKen/zh-cn/categories/"
-                    /></url><url>
             <loc>https://ahken92.github.io/AhKen/zh-cn/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -127,6 +136,15 @@
                     rel="alternate"
                     hreflang="zh-cn"
                     href="https://ahken92.github.io/AhKen/zh-cn/"
+                    /></url><url>
+            <loc>https://ahken92.github.io/AhKen/zh-cn/categories/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://ahken92.github.io/AhKen/categories/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://ahken92.github.io/AhKen/zh-cn/categories/"
                     /></url><url>
             <loc>https://ahken92.github.io/AhKen/zh-cn/posts/</loc><lastmod>2020-06-12T10:10:13&#43;03:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
