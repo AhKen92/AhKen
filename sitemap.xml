@@ -2,6 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://ahken92.github.io/AhKen/theme-documentation-basics/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ahken92.github.io/AhKen/basic-markdown-syntax/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ahken92.github.io/AhKen/emoji-support/</loc><lastmod>2019-10-01T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://ahken92.github.io/AhKen/about/</loc><lastmod>2022-11-26T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://ahken92.github.io/AhKen/</loc><lastmod>2022-11-25T21:57:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://ahken92.github.io/AhKen/categories/</loc><lastmod>2022-11-25T21:57:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
@@ -11,7 +14,9 @@
             <loc>https://ahken92.github.io/AhKen/posts/</loc><lastmod>2022-11-25T21:57:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://ahken92.github.io/AhKen/tags/</loc><lastmod>2022-11-25T21:57:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://ahken92.github.io/AhKen/easy-accounting-001/</loc><lastmod>2022-11-25T21:57:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://ahken92.github.io/AhKen/categories/documentation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://ahken92.github.io/AhKen/tags/content/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://ahken92.github.io/AhKen/tags/installation/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://ahken92.github.io/AhKen/tags/configuration/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
+            <loc>https://ahken92.github.io/AhKen/categories/documentation/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ahken92.github.io/AhKen/tags/installation/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ahken92.github.io/AhKen/tags/configuration/</loc><lastmod>2020-03-06T21:29:01&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ahken92.github.io/AhKen/tags/html/</loc><lastmod>2020-01-01T16:45:40&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ahken92.github.io/AhKen/tags/emoji/</loc><lastmod>2019-10-01T17:55:28&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://ahken92.github.io/AhKen/tags/content/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

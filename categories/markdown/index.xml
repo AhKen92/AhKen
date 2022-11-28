@@ -5,6 +5,22 @@
         <description>Markdown - Category - AhKen的频道</description>
         <generator>Hugo -- gohugo.io</generator><managingEditor>cksinuyasha@gmail.com (Ah Ken)</managingEditor>
             <webMaster>cksinuyasha@gmail.com (Ah Ken)</webMaster><copyright>Ah Ken&#39;s Channel</copyright><lastBuildDate>Fri, 25 Nov 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://ahken92.github.io/AhKen/categories/markdown/" rel="self" type="application/rss+xml" /><item>
+    <title>Basic Markdown Syntax</title>
+    <link>https://ahken92.github.io/AhKen/basic-markdown-syntax/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://ahken92.github.io/AhKen/basic-markdown-syntax/</guid>
+    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
+</item>
+<item>
+    <title>Emoji Support</title>
+    <link>https://ahken92.github.io/AhKen/emoji-support/</link>
+    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://ahken92.github.io/AhKen/emoji-support/</guid>
+    <description><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>]]></description>
+</item>
+<item>
     <title>简单会计学 001：前言</title>
     <link>https://ahken92.github.io/AhKen/easy-accounting-001/</link>
     <pubDate>Fri, 25 Nov 2022 21:57:40 &#43;0800</pubDate>
