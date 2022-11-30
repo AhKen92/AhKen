@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://AhKen92.github.io/sitemap.xml
+Sitemap: https://ahken92.github.io/sitemap.xml
